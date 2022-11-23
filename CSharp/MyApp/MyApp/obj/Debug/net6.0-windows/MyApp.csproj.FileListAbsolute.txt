@@ -1,0 +1,17 @@
+D:\Workspace\CSharp\MyApp\MyApp\bin\Debug\net6.0-windows\MyApp.exe
+D:\Workspace\CSharp\MyApp\MyApp\bin\Debug\net6.0-windows\MyApp.deps.json
+D:\Workspace\CSharp\MyApp\MyApp\bin\Debug\net6.0-windows\MyApp.runtimeconfig.json
+D:\Workspace\CSharp\MyApp\MyApp\bin\Debug\net6.0-windows\MyApp.dll
+D:\Workspace\CSharp\MyApp\MyApp\bin\Debug\net6.0-windows\MyApp.pdb
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.frmMain.resources
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.GenerateResource.cache
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfoInputs.cache
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfo.cs
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.dll
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\refint\MyApp.dll
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.pdb
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\MyApp.genruntimeconfig.cache
+D:\Workspace\CSharp\MyApp\MyApp\obj\Debug\net6.0-windows\ref\MyApp.dll

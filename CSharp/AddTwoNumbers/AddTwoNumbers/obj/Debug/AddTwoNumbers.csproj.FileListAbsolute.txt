@@ -1,0 +1,11 @@
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.Properties.Resources.resources
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.GenerateResource.cache
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.Caculator.resources
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+D:\Workspace\CSharp\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

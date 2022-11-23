@@ -1,0 +1,17 @@
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net6.0-windows\DemoCommonControls.exe
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net6.0-windows\DemoCommonControls.deps.json
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net6.0-windows\DemoCommonControls.runtimeconfig.json
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net6.0-windows\DemoCommonControls.dll
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net6.0-windows\DemoCommonControls.pdb
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\frmEmployeeDetails.frmEmployeeDetails.resources
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.csproj.GenerateResource.cache
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.AssemblyInfoInputs.cache
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.AssemblyInfo.cs
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.dll
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\refint\DemoCommonControls.dll
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.pdb
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\DemoCommonControls.genruntimeconfig.cache
+D:\Workspace\CSharp\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net6.0-windows\ref\DemoCommonControls.dll

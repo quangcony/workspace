@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMDIApp2", "MyMDIApp2\MyMDIApp2.csproj", "{9570AC4B-4D3B-418D-B43C-102789E57BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9570AC4B-4D3B-418D-B43C-102789E57BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9570AC4B-4D3B-418D-B43C-102789E57BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9570AC4B-4D3B-418D-B43C-102789E57BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9570AC4B-4D3B-418D-B43C-102789E57BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903527B2-EB80-4C02-940F-98F8D1B7D89E}
+	EndGlobalSection
+EndGlobal

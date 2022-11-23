@@ -1,0 +1,8 @@
+D:\Workspace\CSharp\BookManaging\BookManaging\bin\Debug\BookManaging.exe.config
+D:\Workspace\CSharp\BookManaging\BookManaging\bin\Debug\BookManaging.exe
+D:\Workspace\CSharp\BookManaging\BookManaging\bin\Debug\BookManaging.pdb
+D:\Workspace\CSharp\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CSharp\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\BookManaging\BookManaging\obj\Debug\BookManaging.exe
+D:\Workspace\CSharp\BookManaging\BookManaging\obj\Debug\BookManaging.pdb

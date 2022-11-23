@@ -1,0 +1,8 @@
+D:\Workspace\CSharp\Day2\Day2\bin\Debug\Day2.exe.config
+D:\Workspace\CSharp\Day2\Day2\bin\Debug\Day2.exe
+D:\Workspace\CSharp\Day2\Day2\bin\Debug\Day2.pdb
+D:\Workspace\CSharp\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\Day2\Day2\obj\Debug\Day2.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CSharp\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\Day2\Day2\obj\Debug\Day2.exe
+D:\Workspace\CSharp\Day2\Day2\obj\Debug\Day2.pdb

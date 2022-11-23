@@ -1,0 +1,8 @@
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\bin\Debug\exsmple_linq.exe.config
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\bin\Debug\exsmple_linq.exe
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\bin\Debug\exsmple_linq.pdb
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\obj\Debug\example_linq.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\obj\Debug\example_linq.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\obj\Debug\example_linq.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\obj\Debug\exsmple_linq.exe
+D:\Workspace\CSharp\exsmple_linq\exsmple_linq\obj\Debug\exsmple_linq.pdb
