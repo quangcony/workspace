@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "PERMISSION_CD": "create"
+  },
+  {
+    "id": 2,
+    "PERMISSION_CD": "read"
+  },
+  {
+    "id": 3,
+    "PERMISSION_CD": "update"
+  },
+  {
+    "id": 4,
+    "PERMISSION_CD": "delete"
+  },
+  {
+    "id": 5,
+    "PERMISSION_CD": "download"
+  },
+  {
+    "id": 6,
+    "PERMISSION_CD": "upload"
+  },
+  {
+    "id": 7,
+    "PERMISSION_CD": "show_roles"
+  },
+  {
+    "id": 8,
+    "PERMISSION_CD": "assign_permission"
+  }
+]

@@ -1,0 +1,10 @@
+.tooltip-container {
+  display       : flex;
+  flex-direction: column;
+}
+
+.tooltip-container>p {
+  color      : black;
+  line-height: 18px;
+
+}

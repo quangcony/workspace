@@ -1,0 +1,583 @@
+{
+  "general": {
+    "msgWelcome": "Welcome to Novasquare Dashboard",
+    "lblCopyright": "Copyright © 2022",
+    "ipSearch": "Search",
+    "ctSelect": "Select Country",
+    "citySelect": "Select City",
+    "dtSelect": "Select District",
+    "mesDelete": "Are you sure delete this item?",
+    "cantRestore": "Cannot restore action!",
+    "button": {
+      "btnOk": "OK",
+      "btnOpen": "Open",
+      "btnCreate": "Create",
+      "btnUpdate": "Update",
+      "btnCancel": "Cancel",
+      "btnClose": "Close",
+      "btnEdit": "Edit",
+      "btnDelete": "Delete",
+      "btnSearch": "Search",
+      "btnViewMore": "View More",
+      "btnAdd": "Add",
+      "btnSend": "Send",
+      "btnContactUs": "Contact Us",
+      "btnTryNow": "Try Now",
+      "btnClear": "Clear"
+    }
+  },
+  "sidebar": {
+    "userManagement": {
+      "title": "User Management",
+      "apps": "Apps",
+      "permissions": "Permissions",
+      "assignPermisstions": "Assign Permissions",
+      "organizations": "Organizations",
+      "users": "Users",
+      "roles": "Roles",
+      "userStatus": "User Status",
+      "tools": "Tools"
+    }
+  },
+  "MedicalDisease": {
+    "medicalDisease": {
+      "title": "Medical Disease Management",
+      "lblMedicalDisease": "MedicalDisease",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    },
+    "medicalDiseaseUnits": {
+      "title": "Medical Disease Unit Management",
+      "lblMedicalDiseaseUnit": "MedicalDiseaseUnit",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstIndex": "INDEX",
+      "lstNote": "Note",
+      "lstAction": "Action",
+      "SelectMedicalDiseasePlacehoder": "Select medical disease..."
+    },
+    "medicalDiseaseUnitSymbols": {
+      "title": "Medical Disease Unit Symbol Management",
+      "lblMedicalDiseaseUnitSymbol": "MedicalDiseaseUnitSymbol",
+      "lstID": "ID",
+      "lstMedicalDiseaseUnitID": "Medical disease unit symbol ID",
+      "lstUnitSymbol": "Unit Symbol",
+      "lstIsDefault": "Is Default",
+      "lstNote": "Note",
+      "lstAction": "Action",
+      "SelectMedicalDiseaseUnitPlacehoder": "Select medical disease unit..."
+    }
+  },
+  "ClinicalDefault": {
+    "clinicalDefault": {
+      "title": "Clinical Default Management",
+      "lblClinicalDefault": "Clinical Default",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    }
+  },
+  "PreClinicalDefault": {
+    "preClinicalDefault": {
+      "title": "PreClinical Default Management",
+      "lblPreClinicalDefault": "PreClinical Default",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    }
+  },
+  "Salary": {
+    "salary": {
+      "title": "Salary List",
+      "lblSalary": "Salary",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    }
+  },
+  "Student": {
+    "student": {
+      "title": "Student List",
+      "lblStudent": "Student",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    }
+  },
+  "SourceRegistration": {
+    "sourceRegistration": {
+      "title": "Source Registration Management",
+      "lblSourceRegistration": "Source Registration",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    }
+  },
+  "userManagement": {
+    "tltDashboard": "Dashboard",
+    "apps": {
+      "title": "Apps Management",
+      "lblApp": "Apps",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstAssignedRoles": "Assigned Roles",
+      "lstAction": "Action"
+    },
+    "modules": {
+      "title": "Module",
+      "lblModule": "Modules",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstModule": "Module",
+      "lstAction": "Action"
+    },
+    "permissions": {
+      "title": "Permissions Management",
+      "lblPermission": "Permissions",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstPermissions": "Permissions",
+      "lstAction": "Action"
+    },
+    "assignPermissions": {
+      "title": "Assign Permissions Management",
+      "lblAssignPermissions": "Assign Permissions",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstAssignPermissions": "Assign Permission",
+      "lstAction": "Action"
+    },
+    "organizations": {
+      "title": "Organizations Management",
+      "lblOrg": "Organizations",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstAbbreviations": "Abbreviations",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    },
+    "users": {
+      "title": "User Management",
+      "lblUser": "Users",
+      "lstID": "ID",
+      "lstFullName": "Full Name",
+      "lstEmail": "Email",
+      "lstUserName": "User Name",
+      "lstPhoneNumber": "Phone Number",
+      "lstAction": "Action"
+    },
+    "roles": {
+      "title": "Roles Management",
+      "lblRole": "Roles",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstTotalUsersAssigned": "Total Users Assigned",
+      "lstAction": "Action"
+    },
+    "userStatus": {
+      "title": "User Status Management",
+      "lblUserStatus": "User Status",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    },
+    "tools": {
+      "title": "Tools",
+      "lblTool": "Tools",
+      "btnConvertPassword": "Convert Password"
+    },
+    "viewlog": {
+      "title": "View log",
+      "lblViewlog": "View log"
+    }
+  },
+  "profile": {
+    "title": "User Profile",
+    "lblProfile": "Profile",
+    "lblChangePassword": "Change password",
+    "lblResetPassword": "Reset password",
+    "lblShowShortInfo": "Show Short Information",
+    "lblLogout": "Logout"
+  },
+  "setting": {
+    "id": "ID",
+    "action": "Action",
+    "nationalPlacehoder": "Select country...",
+    "cityPlacehoder": "Select city...",
+    "districtPlacehoder": "Select district...",
+    "messageValidate": "Please enter this field!",
+    "desc": "Description",
+    "note": "Note",
+    "physicalClassification": {
+      "title": "Physical Classification Management",
+      "lblPhysicalClassification": "Physical Classification",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action",
+      "mdlTitleUp": "Update classification",
+      "mdlTitleCre": "Add new classification"
+    },
+    "employeeStatus": {
+      "title": "Employee Status Management",
+      "lblEmployeeStatus": "Employee Status",
+      "lstName": "Name"
+    },
+    "studentStatus": {
+      "title": "Student Status Management",
+      "lblStudentStatus": "Student Status",
+      "lstName": "Name"
+    },
+    "positions": {
+      "adrress": "Configure job location",
+      "title": "List of job positions",
+      "mdlTitleUp": "Update job position",
+      "mdlTitleCre": "Add a new job position",
+      "localCode": "Position CD",
+      "localName": "Position name",
+      "rank": "Rank",
+      "typeDesc": "Description type",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "departments": {
+      "adrress": "Department configuration",
+      "title": "List of departments",
+      "mdlTitleUp": "Department update",
+      "mdlTitleCre": "Add new departments",
+      "departCode": "Department CD",
+      "departName": "Department name",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "diseases": {
+      "adrress": "Configure disease list",
+      "title": "List of diseases list",
+      "mdlTitleUp": "Update list of diseases",
+      "mdlTitleCre": "Add a new list of diseases",
+      "mdlTitleCreChil": "Add a new list of child diseases",
+      "detailInfoDesc": "Detailed information on the list of diseases",
+      "disList": "List of diseases list",
+      "chooselistParent": "Select parent category",
+      "disName": "Name of disease",
+      "desc": "Description of the disease",
+      "ICD10": "ICD-10 standard disease CD",
+      "disStatus": "Disease status",
+      "sltDisState": "Select a disease state"
+    },
+    "units": {
+      "adrress": "Unit configuration",
+      "title": "List of units",
+      "mdlTitleUp": "Unit update",
+      "mdlTitleCre": "Add new units",
+      "unitCode": "Unit CD",
+      "unitName": "Unit name",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "areas": {
+      "adrress": "Area configuration",
+      "title": "Area list",
+      "mdlTitleUp": "Update area",
+      "mdlTitleCre": "Add new area",
+      "areaCode": "Area CD",
+      "areaName": "Area name",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "genders": {
+      "adrress": "Gender configuration",
+      "title": "Gender list",
+      "mdlTitleUp": "Gender update",
+      "mdlTitleCre": "Add new gender",
+      "genderName": "Gender",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "city": {
+      "adrress": "City Setting",
+      "title": "City List",
+      "mdlTitleUp": "Create City",
+      "mdlTitleCre": "Update City",
+      "name": "Name",
+      "code": "City CD",
+      "country": "Country"
+    },
+    "district": {
+      "adrress": "District Setting",
+      "title": "District List",
+      "mdlTitleUp": "Create District",
+      "mdlTitleCre": "Update District",
+      "name": "Name",
+      "code": "District CD",
+      "city": "City"
+    },
+    "ward": {
+      "adrress": "Ward Setting",
+      "title": "Ward List",
+      "mdlTitleUp": "Create Ward",
+      "mdlTitleCre": "Update Ward",
+      "name": "Name",
+      "code": "Ward CD",
+      "district": "District"
+    },
+    "countries": {
+      "adrress": "Country configuration",
+      "title": "Country list",
+      "mdlTitleUp": "Country update",
+      "mdlTitleCre": "Add new country",
+      "countryName": "Country name",
+      "countryCode": "Country CD",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "userRelationships": {
+      "adrress": "Family relationship configuration",
+      "title": "List of family relations",
+      "mdlTitleUp": "Update family relationship",
+      "mdlTitleCre": "Add new family relationship",
+      "userRelaName": "Relationship name",
+      "desc": "Describe the relationship",
+      "note": "Note"
+    },
+    "maritalStatuses": {
+      "adrress": "configure marital status",
+      "title": "List of marital status",
+      "mdlTitleUp": "Update marital status",
+      "mdlTitleCre": "Add new marital status",
+      "maritalName": "Marital status name",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "employeeContractTypes": {
+      "adrress": "Employee type configuration",
+      "title": "Employee Type List",
+      "mdlTitleUp": "Update employee type",
+      "mdlTitleCre": "Add new employee type",
+      "empTypeName": "Employee type name",
+      "desc": "Description",
+      "note": "Note"
+    },
+    "medicalFacilities": {
+      "adrress": "Configuration of medical facilities",
+      "title": "List of medical facilities",
+      "mdlTitleUp": "Update medical facilities",
+      "mdlTitleCre": "Add a new medical facility",
+      "mdcFacName": "Name",
+      "mdcFacAddress": "Address",
+      "mdcFacPhone": "Phone number",
+      "mdcFacWebsite": "Website",
+      "mdcInsurance": "DIRECT_INSURANCE?",
+      "mdcYes": "Yes",
+      "mdcNo": "No",
+      "mdcModal_cd": "MEDICAL_MODEL_CD",
+      "mdcArea_cd": "TECHNICAL_AREA_CD",
+      "mdcType_cd": "MEDICAL_TYPE_CD",
+      "mdcLevel_cd": "LEVEL_CD",
+      "mdcSocial_cd": "SOCIAL_CD"
+    },
+    "workPlaces": {
+      "adrress": "Configure Work place",
+      "title": "List of Work place",
+      "mdlTitleUp": "Update Work place",
+      "mdlTitleCre": "Add new Work place",
+      "wrkPlaceName": "Work place",
+      "wrkPlaceCD": "Work place CD"
+    },
+    "divisions": {
+      "adrress": "Configure division",
+      "title": "List of division",
+      "mdlTitleUp": "Update division",
+      "mdlTitleCre": "Add new division",
+      "divName": "Division",
+      "divCD": "Division CD"
+    }
+  },
+  "logs": {
+    "title": "Log history",
+    "currentDate": "Current Date",
+    "lbFromDate": "From date",
+    "lbToDate": "To date",
+    "msgNotFoundValues": "Not value found",
+    "lbID": "ID",
+    "lbUserId": "User ID",
+    "lbtype": "Type",
+    "lbModule": "Module",
+    "lbAction": "Action",
+    "lbContents": "Contents",
+    "lbDate": "Date",
+    "txtInfo": "Info",
+    "txtError": "Error",
+    "lbTime": "Time",
+    "lbFind": "Find"
+  },
+  "healthHandbooks": {
+    "employeeHealthInfo": {
+      "address": "List of results of periodic health check",
+      "title": "List of results",
+      "tab_1": "List of results of periodic health check",
+      "tab_2": "Import the file of periodic health examination results",
+      "tab_2_1": "Import the file of periodic health examination results",
+      "tab_2_2": "View the history of entering the file of periodic health examination results",
+      "importSuccessfully": "Health result imported successfully.Total of imported records: ",
+      "exportSuccessfully": "Health result exported successfully.",
+      "importFailed": "Health result imported failed.Ply try again.",
+      "index": "Index",
+      "importedDate": "Imported Date",
+      "importedBy": "Imported By",
+      "medicalType": "Type",
+      "specialDisease": "Disease",
+      "viewImportResult": "View Result",
+      "view": "View",
+      "download": "Download",
+      "downloadFile": "Download File",
+      "importedFileList": "Imported Files",
+      "selectImporterPlaceHolder": "Please select importer",
+      "invalidDateRange": "Start Date must be earlier or equal End Date",
+      "invalidDateRange2": "Please select both start and end date."
+    },
+    "employeeHealthOccupational": {
+      "address": "List of results of occupation disease check",
+      "title": "List of results",
+      "tab_1": "List of results of occupation disease check",
+      "tab_2": "Import the file of occupation disease examination results",
+      "tab_2_1": "Import the file of poccupation disease examination results",
+      "tab_2_2": "View the history of entering the file of occupation disease examination results"
+    },
+    "employeeHealthHardToxic": {
+      "address": "List of results of hard toxic health check",
+      "title": "List of results",
+      "tab_1": "List of results of hard toxic health check",
+      "tab_2": "Import the file of hard toxic health examination results",
+      "tab_2_1": "Import the file of hard toxic health examination results",
+      "tab_2_2": "View the history of entering the file of hard toxic health examination results",
+      "confirm": "You have an unfinished health examination result hard toxic ticket? Do you want to continue typing or delete?"
+    }
+  },
+  "hr": {
+    "id": "User ID",
+    "title": "List Employees",
+    "address": "Employee Setting",
+    "cd": "Employee CD",
+    "avatar": "Avatar",
+    "f_name": "First Name",
+    "l_name": "Last Name",
+    "work_place": "Working Place",
+    "job_position": "Job Position",
+    "marital": "Marital Status",
+    "social": "Social CD",
+    "job_desc": "Job Description",
+    "short_desc": "Personal Bio",
+    "working_process": "Working Process",
+    "fb": "Facebook",
+    "zalo": "Zalo",
+    "show": "Show web",
+    "working_time": "Working Time",
+    "emp_status": "Employee Status",
+    "recruit": "Recruit",
+    "note": "Note",
+    "action": "Action",
+    "mdlTitleUp": "Update Employee",
+    "mdlTitleCre": "Create Employee",
+    "user_search": "Search Information",
+    "country": "Country",
+    "start_date": "Start Working Date",
+    "stop_date": "Stop Working Date",
+    "job_info": "Job Information",
+    "city": "City",
+    "area": "Area",
+    "dept": "Department",
+    "division": "Division",
+    "unit": "Unit",
+    "branch": "Branch",
+    "position": "Position",
+    "job_lv": "Job Level",
+    "emp_type": "Employee Type",
+    "study_info": "Study Information",
+    "academic_lv": "Academic Level",
+    "graduate": "Graduate School",
+    "specialized": "Specialized",
+    "f_lang": "Foreign Language",
+    "f_lv": "Foreign Level",
+    "option": "Option",
+    "search": "Search",
+    "reset": "Clear",
+    "cancel_confirm": "Are you sure to close this?",
+    "personal_info": "Personal Information",
+    "gender": "Gender",
+    "birth": "Birth of Date",
+    "place_of_birth": "Place of birth",
+    "domicile": "Domicile",
+    "resident": "Resident",
+    "indentity_card_no": "Indentity Card No",
+    "issue_date": "Issue Date",
+    "issued_by": "Issued By",
+    "email": "Email",
+    "p_phone": "Primary Phone",
+    "s_phone": "Second Phone",
+    "family": {
+      "family_info": "Family Information",
+      "no": "No.",
+      "relationship": "Relationship",
+      "relatives_id": "Relatives ID",
+      "emp_relationship": "Employee relationship",
+      "job": "Job",
+      "company": "Company",
+      "mdlTitleUp": "Update Parent",
+      "mdlTitleCre": "Create Parent",
+      "placehoder": "Select relationship with employee..."
+    },
+    "account": {
+      "acc_info": "Account Information",
+      "fullname": "Fullname",
+      "send_email": "Send Email"
+    },
+    "bank": {
+      "bank_info": "Bank Information",
+      "no": "No.",
+      "bank_num": "Account Number",
+      "bank_cd": "Bank CD",
+      "bank_name": "Bank Name",
+      "mdlTitleUp": "Update Bank Information",
+      "mdlTitleCre": "Create Bank Information"
+    },
+    "job_placehoder": {
+      "country": "Select country",
+      "city": "Select city",
+      "area": "Select area",
+      "dept": "Select department",
+      "division": "Select division",
+      "unit": "Select unit",
+      "branch": "Select branch",
+      "position": "Select position",
+      "job_lv": "Select job level",
+      "emp_type": "Select employee type",
+      "marital": "Marital status",
+      "show": "Show on website",
+      "emp_status": "Employee Status"
+    }
+  },
+  "confirmDelete": {
+    "content": "Data cannot be recovered",
+    "okText": "Delete",
+    "cancelText": "Continue"
+  }
+}

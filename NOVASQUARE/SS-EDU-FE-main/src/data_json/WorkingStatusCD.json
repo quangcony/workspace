@@ -1,0 +1,22 @@
+[
+    {
+    "id": 1,
+    "CD":"init"
+    },
+    {
+        "id":2,
+        "CD":"processing"
+    },
+    {
+        "id":3,
+        "CD":"approved"
+    },
+    {
+        "id":4,
+        "CD":"confirmed"
+    },
+    {
+        "id":5,
+        "CD": "done"
+    }
+]

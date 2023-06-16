@@ -1,0 +1,8 @@
+export { default as Personal } from './PersonalInfo'
+export { default as Family } from './FamilyInfo'
+export { default as Job } from './JobInfo'
+export { default as Bank } from './BankInfo'
+export { default as Study } from './StudyInfo'
+export { default as AccountInfo } from './AccountInfo'
+export { default as ListEmployees } from './ListEmployees'
+export { default as ModalEmployee } from './ModalEmployee'

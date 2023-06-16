@@ -1,0 +1,515 @@
+{
+  "general": {
+    "msgWelcome": "Chào mừng bạn đến với ",
+    "lblCopyright": "Bản quyền thuộc về",
+    "ipSearch": "Tìm kiếm",
+    "ctSelect": "Chọn Quốc gia",
+    "citySelect": "Chọn tỉnh/thành",
+    "dtSelect": "Chọn quận/huyện",
+    "mesDelete": "Bạn có chắc chắn XÓA?",
+    "cantRestore": "Dữ liệu không thể khôi phục",
+    "button": {
+      "btnOk": "Có",
+      "btnOpen": "Mở",
+      "btnCreate": "Nhập mới",
+      "btnUpdate": "Cập nhật",
+      "btnCancel": "Không",
+      "btnClose": "Đóng",
+      "btnEdit": "Sữa",
+      "btnDelete": "Xóa",
+      "btnSearch": "Tìm kiếm",
+      "btnViewMore": "Xem thêm",
+      "btnAdd": "Thêm",
+      "btnSend": "Gửi",
+      "btnContactUs": "Liên hệ",
+      "btnTryNow": "Try Now",
+      "btnClear": "Xóa"
+    }
+  },
+  "sidebar": {
+    "userManagement": {
+      "title": "Quản lý user",
+      "apps": "Ứng dụng",
+      "permissions": "Quyền",
+      "assignPermisstions": "Assign Permissions",
+      "organizations": "Organizations",
+      "users": "Users",
+      "roles": "Roles",
+      "userStatus": "User Status",
+      "tools": "Tools"
+    }
+  },
+  "userManagement": {
+    "tltDashboard": "Bản điều khiển",
+    "apps": {
+      "title": "Quản lý ứng dụng",
+      "lblApp": "Ứng dụng",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstAssignedRoles": "Assigned Roles",
+      "lstAction": "Action"
+    },
+    "modules": {
+      "title": "Chức năng",
+      "lblModule": "Chức năng",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstModule": "Chức năng",
+      "lstAction": "Hoạt động"
+    },
+    "permissions": {
+      "title": "Quản lý việc cấp quyền",
+      "lblPermission": "Cấp quyền",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstPermissions": "Permissions",
+      "lstAction": "Action"
+    },
+    "assignPermissions": {
+      "title": "Quản lý việc phân quyền",
+      "lblAssignPermissions": "Phân quyền",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstAssignPermissions": "Assign Permission",
+      "lstAction": "Action"
+    },
+    "organizations": {
+      "title": "Quản lý tổ chức",
+      "lblOrg": "Tổ chức",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstAbbreviations": "Abbreviations",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    },
+    "users": {
+      "title": "Quản lý người dùng",
+      "lblUser": "Người dùng",
+      "lstID": "ID",
+      "lstFullName": "Full Name",
+      "lstEmail": "Email",
+      "lstUserName": "User Name",
+      "lstPhoneNumber": "Phone Number",
+      "lstAction": "Action"
+    },
+    "roles": {
+      "title": "Quản lý vai trò",
+      "lblRole": "Vai trò",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstTotalUsersAssigned": "Total Users Assigned",
+      "lstAction": "Action"
+    },
+    "userStatus": {
+      "title": "Quản lý trạng thái người dùng",
+      "lblUserStatus": "Trạng thái người dùng",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstDescription": "Description",
+      "lstNote": "Note",
+      "lstAction": "Action"
+    },
+    "tools": {
+      "title": "Công cụ hỗ trợ",
+      "lblTool": "Công cụ",
+      "btnConvertPassword": "Convert Password"
+    },
+    "viewlog": {
+      "title": "Xem log",
+      "lblViewlog": "Xem log"
+    }
+  },
+  "profile": {
+    "title": "Hồ sơ người dùng",
+    "lblProfile": "Hồ sơ",
+    "lblChangePassword": "Thay đổi mật mã",
+    "lblResetPassword": "Đặt lại mật khẩu",
+    "lblShowShortInfo": "Thông tin ngắn",
+    "lblLogout": "Đăng xuất"
+  },
+  "setting": {
+    "id": "ID",
+    "action": "Hành động",
+    "nationalPlacehoder": "Chọn quốc gia...",
+    "cityPlacehoder": "Chọn tỉnh/thành phố...",
+    "districtPlacehoder": "Chọn quận/huyện...",
+    "messageValidate": "Vui lòng nhập dữ liệu!",
+    "desc": "Mô tả",
+    "note": "Ghi chú",
+    "physicalClassification": {
+      "title": "Cấu hình phân loại bệnh",
+      "lblPhysicalClassification": "Danh sách phân loại bệnh",
+      "lstID": "ID",
+      "lstName": "Tên",
+      "lstDescription": "Mô tả",
+      "lstNote": "Ghi chú",
+      "lstAction": "Hành dộng",
+      "mdlTitleUp": "Cập nhật phân loại bệnh",
+      "mdlTitleCre": "Thêm mới phân loại bệnh"
+    },
+    "employeeStatus": {
+      "title": "Cấu hình trạng thái nhân viên",
+      "lblEmployeeStatus": "Danh sách trạng thái nhân viên",
+      "lstName": "Tên",
+      "mdlTitleUp": "Cập nhật",
+      "mdlTitleCre": "Thêm mới"
+    },
+    "studentStatus": {
+      "title": "Cấu hình trạng thái sinh viên",
+      "lblStudentStatus": "Danh sách trạng thái",
+      "lstName": "Tên",
+      "mdlTitleUp": "Cập nhật",
+      "mdlTitleCre": "Thêm mới"
+    },
+    "workingStatus": {
+      "title": "Cấu hình trạng thái công việc",
+      "lblWorkingStatus": "Danh sách trạng thái công việc",
+      "lstName": "Tên",
+      "mdlTitleUp": "Cập nhật",
+      "mdlTitleCre": "Thêm mới"
+    },
+    "positions": {
+      "adrress": "Cấu hình vị trí công việc",
+      "title": "Danh sách vị trí công việc",
+      "mdlTitleUp": "Cập nhật vị trí công việc",
+      "mdlTitleCre": "Thêm mới vị trí công việc",
+      "localCode": "Mã vị trí",
+      "localName": "Tên vị trí",
+      "rank": "Số phạm vi",
+      "typeDesc": "Kiểu mô tả vị trí",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "departments": {
+      "adrress": "Cấu hình phòng ban",
+      "title": "Danh sách phòng ban",
+      "mdlTitleUp": "Cập nhật phòng ban",
+      "mdlTitleCre": "Thêm mới phòng ban",
+      "departCode": "Mã phòng ban",
+      "departName": "Tên phòng ban",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "healthHandbooks": {
+      "employeeHealthOccupational": {
+        "address": "Danh sách Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+        "title": "Danh sách kết quả",
+        "tab_1": "Nhập Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+        "tab_2": "Nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+        "tab_2_1": "Nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+        "tab_2_2": "Xem lịch sử nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp"
+      },
+      "employeeHealthHardToxic": {
+        "address": "Danh sách kết quả khám sức khỏe nặng nhọc, độc hại",
+        "title": "Danh sách kết quả",
+        "tab_1": "Nhập Kết quả Khám sức khỏe nặng nhọc, độc hại",
+        "tab_2": "Nhập file kết quả khám sức khỏe nặng nhọc, độc hại",
+        "tab_2_1": "Nhập file kết quả KSK nặng nhọc, độc hại",
+        "tab_2_2": "Xem lịch sử nhập file kết quả KSK nặng nhọc, độc hại"
+      }
+    },
+    "diseases": {
+      "adrress": "Cấu hình danh sách bệnh",
+      "title": "Danh sách danh mục bệnh",
+      "mdlTitleUp": "Cập nhật danh mục bệnh",
+      "mdlTitleCre": "Thêm mới danh mục bệnh",
+      "mdlTitleCreChil": "Thêm mới danh muc bệnh con",
+      "detailInfoDesc": "Thông tin chi tiết danh mục bệnh",
+      "disList": "Danh sách danh mục bệnh",
+      "chooselistParent": "Chọn danh mục cha",
+      "disName": "Tên bệnh",
+      "desc": "Mô tả bệnh",
+      "ICD10": "Mã bệnh theo chuẩn IDC-10",
+      "disStatus": "Trạng thái bệnh",
+      "sltDisState": "Chọn trạng thái bệnh"
+    },
+    "units": {
+      "adrress": "Cấu hình đơn vị",
+      "title": "Danh sách đơn vị",
+      "mdlTitleUp": "Cập nhật đơn vị",
+      "mdlTitleCre": "Thêm mới đơn vị",
+      "unitCode": "Mã đơn vị",
+      "unitName": "Tên đơn vị",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "areas": {
+      "adrress": "Cấu hình khối",
+      "title": "Danh sách khối",
+      "mdlTitleUp": "Cập nhật khối",
+      "mdlTitleCre": "Thêm mới khối",
+      "areaCode": "Mã khối",
+      "areaName": "Tên khối",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "genders": {
+      "adrress": "Cấu hình giới tính",
+      "title": "Danh sách giới tính",
+      "mdlTitleUp": "Cập nhật giới tính",
+      "mdlTitleCre": "Thêm mới giới tính",
+      "genderName": "Giới tính",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "city": {
+      "adrress": "Cấu hình tỉnh/thành phố",
+      "title": "Danh Sách Tỉnh, Thành Phố",
+      "mdlTitleUp": "Tạo mới",
+      "mdlTitleCre": "Cập nhật",
+      "name": "Tên tỉnh/thành",
+      "code": "Mã tỉnh/thành",
+      "country": "Quốc gia"
+    },
+    "district": {
+      "adrress": "Cấu hình quận/huyện",
+      "title": "Danh Sách Quận, Huyện",
+      "mdlTitleUp": "Tạo mới",
+      "mdlTitleCre": "Cập nhật",
+      "name": "Tên quận/huyện",
+      "code": "Mã quận/huyện",
+      "city": "Tỉnh/Thành phố"
+    },
+    "ward": {
+      "adrress": "Cấu hình phường/xã",
+      "title": "Danh Sách Phường, Xã",
+      "mdlTitleUp": "Tạo mới",
+      "mdlTitleCre": "Cập nhật",
+      "name": "Tên phường/xã",
+      "code": "Mã phường/xã",
+      "district": "Quận/Huyện"
+    },
+    "countries": {
+      "adrress": "Cấu hình quốc gia",
+      "title": "Danh sách quốc gia",
+      "mdlTitleUp": "Cập nhật quốc gia",
+      "mdlTitleCre": "Thêm mới quốc gia",
+      "countryName": "Tên quốc gia",
+      "countryCode": "Mã quốc gia",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "userRelationships": {
+      "adrress": "Cấu hình quan hệ gia đình",
+      "title": "Danh sách quan hệ gia đình",
+      "mdlTitleUp": "Cập nhật quan hệ gia đình",
+      "mdlTitleCre": "Thêm mới quan hệ gia đình",
+      "userRelaName": "Tên mối quan hệ",
+      "desc": "Mô tả mối quan hệ",
+      "note": "Ghi chú"
+    },
+    "maritalStatuses": {
+      "adrress": "Cấu hình tình trạng hôn nhân",
+      "title": "Danh sách tình trạng hôn nhân",
+      "mdlTitleUp": "Cập nhật tình trạng hôn nhân",
+      "mdlTitleCre": "Thêm mới tình trạng hôn nhân",
+      "maritalName": "Tên tình trạng hôn nhân",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "employeeContractTypes": {
+      "adrress": "Cấu hình loại nhân viên",
+      "title": "Danh sách loại nhân viên",
+      "mdlTitleUp": "Cập nhật loại nhân viên",
+      "mdlTitleCre": "Thêm mới loại nhân viên",
+      "empTypeName": "Loại nhân viên",
+      "desc": "Mô tả",
+      "note": "Ghi chú"
+    },
+    "medicalFacilities": {
+      "adrress": "Cấu hình cơ sở khám chữa bệnh",
+      "title": "Danh sách cơ sở khám chữa bệnh",
+      "mdlTitleUp": "Cập nhật cơ sở khám chữa bệnh",
+      "mdlTitleCre": "Thêm mới cơ sở khám chữa bệnh",
+      "mdcFacName": "Tên cở sở",
+      "mdcFacAddress": "Địa chỉ",
+      "mdcFacPhone": "Điện thoại",
+      "mdcFacWebsite": "Website",
+      "mdcInsurance": "Nhận BHXH hay không?",
+      "mdcYes": "Có",
+      "mdcNo": "Không",
+      "mdcModal_cd": "MEDICAL_MODEL_CD",
+      "mdcArea_cd": "TECHNICAL_AREA_CD",
+      "mdcType_cd": "MEDICAL_TYPE_CD",
+      "mdcLevel_cd": "LEVEL_CD",
+      "mdcSocial_cd": "SOCIAL_CD"
+    },
+    "workPlaces": {
+      "adrress": "Cấu hinh nơi làm việc",
+      "title": "Danh sách nơi làm việc",
+      "mdlTitleUp": "Cập nhật nơi làm việc",
+      "mdlTitleCre": "Thêm mới nơi làm việc",
+      "wrkPlaceName": "Nơi làm việc",
+      "wrkPlaceCD": "Mã CD"
+    },
+    "divisions": {
+      "adrress": "Cấu hinh bộ phân",
+      "title": "Danh sách bộ phân",
+      "mdlTitleUp": "Cập nhật bộ phân",
+      "mdlTitleCre": "Thêm mới bộ phân",
+      "divName": "Bộ phân",
+      "divCD": "Mã CD"
+    }
+  },
+  "healthHandbooks": {
+    "employeeHealthInfo": {
+      "address": "Danh sách kết quả khám sức khỏe định kỳ",
+      "title": "Danh sách kết quả",
+      "tab_1": "Nhập kết quả Khám sức khỏe định kỳ",
+      "tab_2": "Nhập file kết quả Khám sức khỏe định kỳ",
+      "tab_2_1": "Nhập file kết quả Khám sức khỏe định kỳ",
+      "tab_2_2": "Xem lịch sử nhập file kết quả Khám sức khỏe định kỳ",
+      "importSuccessfully": "Cập nhật kết quả khám thành công.Số kêt quả khám đã được cập nhật: ",
+      "exportSuccessfully": "Xuất kết quả khám thành công.",
+      "importFailed": "Cập nhật kết quả khám thất bại. Vui lòng thử lại.",
+      "index": "STT",
+      "importedDate": "Ngày nhập file",
+      "importedBy": "Người nhập file",
+      "medicalType": "Hình thức khám",
+      "specialDisease": "Bệnh nghề nghiệp",
+      "viewImportResult": "Xem kết quả nhập file",
+      "view": "Xem",
+      "download": "Tải",
+      "downloadFile": "Tải file",
+      "importedFileList": "Danh sách file đã tải lên",
+      "selectImporterPlaceHolder": "Chọn người nhập",
+      "invalidDateRange": "Ngày bắt đầu không được lớn hơn ngày kết thúc.",
+      "invalidDateRange2": "Vui lòng chọn ngày bắt đầu và ngày kết thúc."
+    },
+    "employeeHealthOccupational": {
+      "address": "Danh sách Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+      "title": "Danh sách kết quả",
+      "tab_1": "Nhập Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+      "tab_2": "Nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+      "tab_2_1": "Nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp",
+      "tab_2_2": "Xem lịch sử nhập file Kết quả Khám sức khỏe Bệnh nghề nghiệp"
+    },
+    "employeeHealthHardToxic": {
+      "address": "Danh sách kết quả khám sức khỏe nặng nhọc, độc hại",
+      "title": "Danh sách kết quả",
+      "tab_1": "Nhập Kết quả Khám sức khỏe nặng nhọc, độc hại",
+      "tab_2": "Nhập file kết quả khám sức khỏe nặng nhọc, độc hại",
+      "tab_2_1": "Nhập file kết quả KSK nặng nhọc, độc hại",
+      "tab_2_2": "Xem lịch sử nhập file kết quả KSK nặng nhọc, độc hại",
+      "confirm": "Bạn đang có một phiếu KSK nặng nhọc, độc hại chưa hoàn thành? Bạn muốn tiếp tục nhập hay xóa?"
+    },
+    "HealthCheckResultsRecruitment": {
+      "address": "Danh sách kết quả khám sức khỏe tuyển dụng",
+      "title": "Danh sách kết quả",
+      "tab_1": "Nhập Kết quả Khám sức khỏe Tuyển dụng",
+      "tab_2": "Nhập file Kết quả Khám sức khỏe Tuyển dụng",
+      "tab_2_1": "Nhập file kết quả KSK tuyển dụng",
+      "tab_2_2": "Xem lịch sử nhập file kết quả KSK tuyển dụng",
+      "lblResult": "Kết quả",
+      "lblStatus": "Trạng thái"
+    }
+  },
+  "hr": {
+    "id": "ID User",
+    "title": "Danh sách nhân viên",
+    "address": "Cấu Hình Nhân Viên",
+    "cd": "Mã NV",
+    "avatar": "Ảnh",
+    "f_name": "Họ lót",
+    "l_name": "Tên",
+    "work_place": "Nơi làm việc",
+    "job_position": "Vị trí công việc",
+    "marital": "TT Hôn Nhân",
+    "social": "Mã BHXH",
+    "job_desc": "Mô tả công việc",
+    "short_desc": "Tiểu sử cá nhân",
+    "working_process": "Quá trình công tác",
+    "fb": "Facebook",
+    "zalo": "Zalo",
+    "show": "Hiển thị lên Web",
+    "working_time": "Ngày vào/ra Cty",
+    "emp_status": "Tình trạng NV",
+    "recruit": "Tuyển dụng",
+    "note": "Ghi chú",
+    "action": "Hành động",
+    "mdlTitleUp": "Cập Nhật Nhân Viên",
+    "mdlTitleCre": "Tạo Nhân Viên Mới",
+    "user_search": "Tìm kiếm thông tin",
+    "country": "Quốc gia",
+    "start_date": "Ngày vào làm",
+    "stop_date": "Ngày nghỉ việc",
+    "job_info": "Thông tin công việc",
+    "city": "Tỉnh/Thành phố",
+    "area": "Khối",
+    "dept": "Phòng ban",
+    "division": "Bộ phận",
+    "unit": "Đơn vị",
+    "branch": "Chi nhánh",
+    "position": "Chức vụ",
+    "job_lv": "Cấp bậc vị trí",
+    "emp_type": "Loại nhân viên",
+    "option": "Tìm kiếm nâng cao",
+    "search": "Tìm kiếm",
+    "reset": "Xóa",
+    "cancel_confirm": "Modal sẽ đóng và không lưu lại dữ liệu!",
+    "study_info": "Thông tin học tập",
+    "academic_lv": "Trình độ học vấn",
+    "graduate": "Trường tốt nghiệp",
+    "specialized": "Chuyên ngành",
+    "f_lang": "Ngoại ngữ",
+    "f_lv": "Trình độ NN",
+    "personal_info": "Thông tin cá nhân",
+    "gender": "Giới tính",
+    "birth": "Ngày sinh",
+    "place_of_birth": "Nơi sinh",
+    "domicile": "Nguyên quán",
+    "resident": "Cư trú",
+    "indentity_card_no": "CMND/CCCD",
+    "issue_date": "Ngày cấp",
+    "issued_by": "Nơi cấp",
+    "email": "Email",
+    "p_phone": "Số điện thoại",
+    "s_phone": "Số điện thoại 2",
+    "phone": "Phone Number",
+    "family": {
+      "family_info": "Thông tin gia đình",
+      "no": "STT",
+      "relationship": "Quan hệ",
+      "relatives_id": "ID Người thân",
+      "emp_relationship": "Mối quan hệ với NV",
+      "job": "Công việc",
+      "company": "Công ty",
+      "mdlTitleUp": "Cập nhật thông tin gia đình",
+      "mdlTitleCre": "Thêm người thân mới",
+      "placehoder": "Chọn mối quan hệ với NV..."
+    },
+    "account": {
+      "acc_info": "Thông tin tài khoản",
+      "fullname": "Họ tên",
+      "send_email": "Gửi Email"
+    },
+    "bank": {
+      "bank_info": "Thông tin ngân hàng",
+      "no": "STT",
+      "bank_num": "Số tài khoản",
+      "bank_cd": "Mã ngân hàng",
+      "bank_name": "Tên ngân hàng",
+      "mdlTitleUp": "Cập nhật thông tin ngân hàng",
+      "mdlTitleCre": "Tạo mới thông tin ngân hàng"
+    },
+    "job_placehoder": {
+      "country": "Chọn quốc gia",
+      "city": "Chọn tỉnh/thành phố",
+      "area": "Chọn khối",
+      "dept": "Chọn phòng ban",
+      "division": "Chọn bộ phận",
+      "unit": "Chọn đơn vị",
+      "branch": "Chọn nơi làm việc",
+      "position": "Chọn vị trí",
+      "job_lv": "Chọn cấp bậc",
+      "emp_type": "Chọn loại hợp đồng",
+      "marital": "Tình trạng hôn nhân",
+      "show": "Hiển thị lên website",
+      "emp_status": "Tình trạng nhân viên"
+    }
+  },
+  "education": {
+    "address": "Chương trình học"
+  }
+}

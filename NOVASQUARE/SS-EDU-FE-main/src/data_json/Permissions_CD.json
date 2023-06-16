@@ -1,0 +1,8 @@
+{
+  "create": "create",
+  "read": "read",
+  "update": "update",
+  "delete": "delete",
+  "show_roles": "show_roles",
+  "assign_permission": "assign_permission"
+}

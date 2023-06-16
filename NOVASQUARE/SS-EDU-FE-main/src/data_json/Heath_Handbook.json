@@ -1,0 +1,18 @@
+[
+  {
+    "value": 1,
+    "label": "Không đủ sức khỏe làm việc"
+  },
+  {
+    "value": 2,
+    "label": "Đủ sức khỏe làm việc"
+  },
+  {
+    "value": 3,
+    "label": "Đủ điều kiện nhận việc"
+  },
+  {
+    "value": 4,
+    "label": "Không đủ điều kiện nhận việc"
+  }
+]

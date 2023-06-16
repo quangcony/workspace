@@ -1,0 +1,255 @@
+/* CSS for ant-descriptions */
+.ant-descriptions-view {
+  border: 1px solid black !important;
+  border-bottom: none !important;
+}
+
+.ant-descriptions-row {
+  border-bottom: 1px solid black !important;
+}
+
+/* CSS for ant-space */
+.title.ant-space {
+  padding: 24px 0;
+}
+
+/* CSS for ant-typography */
+.ant-typography {
+  margin-bottom: 0 !important;
+}
+
+/* Clear CSs */
+.m0-p0 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Set font size 16px*/
+.fz16 {
+  font-size: 16px;
+}
+
+/* Set indent text */
+.txt-indent__60 {
+  margin-left: 60px !important;
+  font-size: 16px;
+}
+
+/* CSS for tabs */
+.ant-tabs-nav-list {
+  width: 100% !important;
+}
+
+/* .ant-tabs-tab {
+    width: 50%;
+    justify-content: center;
+} */
+
+.tabs_children > .ant-tabs-nav > .ant-tabs-nav-wrap > .ant-tabs-nav-list {
+  display: flex;
+  justify-content: center;
+}
+
+.tabs_children
+  > .ant-tabs-nav
+  > .ant-tabs-nav-wrap
+  > .ant-tabs-nav-list
+  > .ant-tabs-tab {
+  width: 40%;
+}
+
+.ant-tabs-card > .ant-tabs-nav .ant-tabs-tab-active {
+  /* background-color: #1890ff !important; */
+  background-color: rgb(5, 26, 90) !important;
+}
+
+.parent-tabs .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: white !important;
+}
+
+.tabs_children .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #40a9ff !important;
+}
+
+.ant-tabs > .ant-tabs-nav .ant-tabs-nav-operations {
+  display: none !important;
+}
+
+/* hidden elements */
+.ant-space-item:has(.hid_element) {
+  display: none;
+}
+
+.antd-tbl
+  .ant-table-thead
+  > tr
+  > th:not(:last-child):not(.ant-table-selection-column):not(
+    .ant-table-row-expand-icon-cell
+  ):not([colspan])::before {
+  background-color: #fff !important;
+}
+
+/* CSS for input disable */
+input[type="text"]:disabled {
+  color: grey;
+}
+
+.show__elm {
+  opacity: 1;
+  visibility: visible;
+  transition: 0.3s;
+}
+
+.hide__elm {
+  opacity: 0;
+  visibility: hidden;
+  height: 0;
+  transition: 0.3s;
+}
+
+/* CSS for ant card header */
+.card-header .ant-card-head-title {
+  padding: 8px 0;
+}
+
+.seniority-modal .ant-modal-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.consultation-medical .ant-tabs-tab {
+  flex-grow: 1;
+}
+
+.consultation-medical .ant-tabs-content {
+  padding: 16px 0;
+}
+
+.__hide-element {
+  display: none;
+}
+
+.__validate-element {
+  display: inline-block;
+  color: #ff4d4f;
+  font-size: 14px;
+  padding: 1px;
+}
+
+.ant-form-item-label
+  > label.ant-form-item-required:not(
+    .ant-form-item-required-mark-optional
+  )::before {
+  content: "" !important;
+  margin-right: 0px !important;
+}
+
+.ant-form-item-label
+  > label.ant-form-item-required:not(
+    .ant-form-item-required-mark-optional
+  )::after {
+  display: inline-block;
+  margin-left: 6px;
+  color: #ff4d4f;
+  font-size: 14px;
+  font-family: SimSun, sans-serif;
+  line-height: 1;
+  content: "(*)" !important;
+}
+
+.ant-form-item-label > label::after {
+  content: "" !important;
+}
+
+.btnSelectAll,
+.btnClearAll {
+  color: #0288d1;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btnSelectAll:hover,
+.btnClearAll:hover {
+  color: rgb(5, 26, 90);
+}
+
+.occupational-pdf-tbl table thead tr th {
+  background: white !important;
+  color: black !important;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.occupational-pdf-tbl .ant-table.ant-table-bordered * {
+  border-color: black !important;
+}
+
+.anticon svg {
+  margin-bottom: 5px;
+}
+
+/* .ant-form-item-label>label {
+    height: unset !important;
+} */
+
+.pg-viewer-wrapper {
+  overflow-y: 100% !important;
+}
+
+.photo-viewer-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.photo-viewer-container > img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.btn-submit {
+  width: 80px;
+}
+
+.mess-hidden .ant-form-item-explain-error {
+  display: none;
+}
+
+@media only screen and (max-width: 700px) {
+  .title-header-tbl {
+    font-size: 12px;
+  }
+}
+
+/* confirm delete */
+.ant-modal-confirm-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ant-modal-confirm-btns {
+  display: flex;
+  justify-content: center;
+}
+
+.ant-select-disabled.ant-select:not(.ant-select-customize-input)
+  .ant-select-selector {
+  color: gray !important;
+}
+
+.ant-input[disabled],
+.ant-picker-input > input[disabled],
+.ant-input-number-disabled .ant-input-number-input {
+  color: gray !important;
+}
+
+input[type="text"]:disabled {
+  color: gray !important;
+}
+
+.value-input input:-webkit-autofill,
+.value-input input:-webkit-autofill:focus {
+  -webkit-text-fill-color: red !important;
+}

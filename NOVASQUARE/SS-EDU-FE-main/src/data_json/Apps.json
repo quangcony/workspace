@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "APP_CD": "um"
+  },
+  {
+    "id": 2,
+    "APP_CD": "education"
+  },
+  {
+    "id": 3,
+    "APP_CD": "hr"
+  },
+  {
+    "id": 4,
+    "APP_CD": "crm"
+  },
+  {
+    "id": 5,
+    "APP_CD": "task"
+  },
+  {
+    "id": 6,
+    "APP_CD": "warehouse"
+  },
+  {
+    "id": 7,
+    "APP_CD": "blockchain"
+  },
+  {
+    "id": 8,
+    "APP_CD": "dashboard"
+  },
+  {
+    "id": 9,
+    "APP_CD": "financial"
+  },
+  {
+    "id": 10,
+    "APP_CD": "executive"
+  },
+  {
+    "id": 11,
+    "APP_CD": "setting"
+  },
+  {
+    "id": 12,
+    "APP_CD": "system"
+  },
+  {
+    "id": 13,
+    "APP_CD": "health_handbook"
+  },
+  {
+    "id": 14,
+    "APP_CD": "health_self_checking"
+  },
+  {
+    "id": 15,
+    "APP_CD": "health_nutrition_menu"
+  },
+  {
+    "id": 16,
+    "APP_CD": "health_solutions"
+  }
+  
+  
+]

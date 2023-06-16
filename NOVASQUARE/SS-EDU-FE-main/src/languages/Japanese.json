@@ -1,0 +1,125 @@
+{
+  "general": {
+    "msgWelcome": "Novasquare ダッシュボードへようこそ",
+    "lblCopyright":"著作権",
+    "button": {
+      "btnOk": "OK",
+      "btnOpen": "開く",
+      "btnCreate": "作成",
+      "btnUpdate": "変更",
+      "btnCancel": "キャンセル",
+      "btnClose": "閉じる",
+      "btnEdit": "編集",
+      "btnDelete": "削除",
+      "btnSearch": "検索　",
+      "btnViewMore": "もっと見る",
+      "btnAdd": "追加",
+      "btnSend": "送信",
+      "btnContactUs": "お問い合わせ",
+      "btnTryNow": "すぐに試す",
+      "btnClear": "クリア"
+    }
+  },
+  "sidebar": {
+    "userManagement": {
+      "title": "ユーザー管理",
+      "apps": "アプリ",
+      "permissions": "権限",
+      "assignPermisstions": "権限を割り当てる",
+      "organizations": "組織",
+      "users": "ユーザー",
+      "roles": "役割",
+      "userStatus": "ユーザーステータス",
+      "tools": "ツール"      
+    }
+  },
+  "userManagement": {
+    "tltDashboard": "ダッシュボード",
+    "apps": {
+      "title": "アプリ管理",
+      "lblApp": "アプリ",
+      "lstID": "ID",
+      "lstName": "名前",
+      "lstAssignedRoles": "割り当てられた役割",
+      "lstAction": "アクション"
+    },
+    "modules": {
+      "title": "モジュール",
+      "lblModule": "モジュール",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstModule": "Module JP",
+      "lstAction": "Action"
+    },
+    "permissions": {
+      "title": "権限管理",
+      "lblPermission": "許可",
+      "lstID": "ID",
+      "lstName": "名前",
+      "lstPermissions": "権限",
+      "lstAction": "アクション"
+    },
+    "assignPermissions": {
+      "title": "権限管理の割り当て",
+      "lblAssignPermissions": "権限を割り当てる",
+      "lstID": "ID",
+      "lstName": "Name",
+      "lstAssignPermissions": "Assign Permission",
+      "lstAction": "Action"
+    },
+    "organizations": {
+      "title": "組織管理",
+      "lblOrg": "組織",
+      "lstID": "ID",
+      "lstName": "名前",
+      "lstDescription": "説明",
+      "lstAbbreviations": "略語",
+      "lstNote": "ノート",
+      "lstAction": "アクション"
+    },
+    "users": {
+      "title": "ユーザー管理",
+      "lblUser":"ユーザー",
+      "lstID": "ID",
+      "lstFullName": "フルネーム",
+      "lstEmail": "Email",
+      "lstUserName": "ユーザー名",
+      "lstPhoneNumber": "電話番号",
+      "lstAction": "アクション"
+    },
+    "roles": {
+      "title": "役割管理",
+      "lblRole": "役割",
+      "lstID": "ID",
+      "lstName": "名前",
+      "lstTotalUsersAssigned": "割り当てられたユーザーの総数",
+      "lstAction": "アクション"
+    },
+    "userStatus": {
+      "title": "ユーザーステータス管理",
+      "lblUserStatus": "ユーザーステータス",
+      "lstID": "ID",
+      "lstName": "名前",
+      "lstDescription": "説明",
+      "lstNote": "ノート",
+      "lstAction": "アクション"
+    },
+    "tools": {
+      "title": "ツール",
+      "lblTool": "ツール",
+      "btnConvertPassword": "パスワードの変換"
+    },
+    "viewlog":{
+      "title":"View log JP",
+      "lblViewlog":"View log JP"
+    }
+  },
+  "profile":{
+    "title":"ユーザー プロファイル",
+    "lblProfile":"プロフィール",
+    "lblChangePassword":"パスワードを変更する",
+    "lblResetPassword":"パスワードを再設定する",
+    "lblShowShortInfo":"短い情報を表示",
+    "lblLogout":"ログアウト"
+  }
+}
